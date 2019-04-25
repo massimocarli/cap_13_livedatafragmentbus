@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LiveDataFragmentBus</string>
+    <string name="title_home">Home</string>
+    <string name="title_bus_stop_map">BusMap</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Message for the Location request -->
+    <string name="location_request_dialog_title">Location Permission</string>
+    <string name="location_request_dialog_reason">We need your permission in order to get your position. This is the
+        only way to provide you useful data
+    </string>
+    <string name="location_request_dialog_close">Your permission is mandatory. Bye!</string>
+    <string name="bus_stop_list_title">BUS STOP LIST</string>
+    <string name="bus_stop_map_title">BUS STOP MAP</string>
+    <string name="title_bus_stop_search">Search</string>
+</resources>
